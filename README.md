@@ -3,7 +3,7 @@ Component that assigns classnames on scroll
 
 ### Installation
 ```bash
-  npm install react-scroll-assign
+  npm install react-scroll-class-assign
 ```
 
 ### Example
