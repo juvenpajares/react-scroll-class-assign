@@ -11,7 +11,7 @@ Component that assigns classnames on scroll
 var React = require('react');
 var ScrollClassAssign = require('react-scroll-class-assign');
 
-var SimpleSlider = React.createClass({
+var SimpleApp = React.createClass({
   render: function () {
     return (
     <ScrollClassAssign top="10" bottom="10000" className="test" activeClass="active">
